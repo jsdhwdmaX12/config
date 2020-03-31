@@ -1,0 +1,4 @@
+data:
+  env: config-consumer-dev
+  username: admin
+  password: 123456
